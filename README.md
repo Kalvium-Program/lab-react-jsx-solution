@@ -24,7 +24,7 @@ The task is to create a webpage which looks like the image below:
 
 ### Steps to follow:
 1. Clone this repository.
-2. On your terminal go inside `lab-react-jsx` directory and use the following command:
+2. On your terminal go inside `lab-react-jsx-boilerplate` directory and use the following command:
    `npm install i`
    This command install's all the packages to your system that this project is using.
 3. Few lines of code is already written for you -- in the following files:
